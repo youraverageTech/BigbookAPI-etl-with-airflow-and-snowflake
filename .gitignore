@@ -1,0 +1,6 @@
+docker-compose.yaml
+Dockerfile
+.env
+logs/
+config/
+plugins/

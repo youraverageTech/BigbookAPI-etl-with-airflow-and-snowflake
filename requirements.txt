@@ -1,0 +1,9 @@
+pandas
+numpy
+SQLAlchemy
+apache-airflow-providers-postgres
+huggingface-hub
+psycopg2-binary
+apache-airflow-providers-snowflake
+requests
+pyarrow
